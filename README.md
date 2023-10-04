@@ -12,4 +12,4 @@ Ci saranno a disposizione vari pacchetti per i clienti a seconda del persorso ch
 Sarà possibile anche modificare i pacchetti per soddisfare gli obiettivi specifici di apprendimento del cliente in questione.
 
 4. Community Interattiva:
-Mette a disposizione un servizio 24h su 24 per domande o curiostià relative al mondo del cubing, una sezione dove i clienti possono interagire fra di loro e una pagina con collegamenti esterni sempre riguardanti l'ambito del cubing.
+Il servizio mette a disposizione un servizio 24h su 24 per domande o curiostià relative al mondo del cubing, una sezione dove i clienti possono interagire fra di loro e una pagina con collegamenti esterni sempre riguardanti le notizie e le scoperte più recenti sul mondo del cubing.
