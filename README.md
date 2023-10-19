@@ -29,7 +29,7 @@ Sarà possibile anche modificare i pacchetti per soddisfare gli obiettivi specif
 4. Community Interattiva:(utente, non funzionale)
 Il servizio mette a disposizione un servizio 24h su 24 per domande o curiostià relative al mondo del cubing, una sezione dove i clienti possono interagire fra di loro e una pagina con collegamenti esterni sempre riguardanti le notizie e le scoperte più recenti sul mondo del cubing.
 
-5. Pravicy e sicurezza dei dati: (sistema, non funzionale)
+5. Pravicy e sicurezza dei dati: (dominio)
 RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza dei dati dei clienti. Ciò include l'adozione di protocolli di crittografia per la trasmissione dei dati, l'accesso limitato alle informazioni personali solo al personale autorizzato e la definizione di politiche chiare in merito alla gestione e alla protezione dei dati sensibili. Inoltre, la politica di privacy è conforme alle leggi e ai regolamenti vigenti in materia di privacy dei dati ed è chiaramente disponibile ed accessibile ai clienti per un eventuale consultazione.
 
 
