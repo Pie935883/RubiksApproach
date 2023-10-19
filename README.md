@@ -13,3 +13,15 @@ Sarà possibile anche modificare i pacchetti per soddisfare gli obiettivi specif
 
 4. Community Interattiva:(funzionale)
 Il servizio mette a disposizione un servizio 24h su 24 per domande o curiostià relative al mondo del cubing, una sezione dove i clienti possono interagire fra di loro e una pagina con collegamenti esterni sempre riguardanti le notizie e le scoperte più recenti sul mondo del cubing.
+
+[cliente]-(Sign In)
+[cliente] -(Log in)
+[cliente]-(compra pacchetti)
+(compra pacchetti)>(naviga tra gli abbonamenti)
+(naviga tra gli abbonamenti)<(aggiungi al carrello)
+(aggiungi al carrello) < (effettua pagamento)
+(aggiungi al carrello) < (rimuovi dal carrello)
+[cliente] - (guarda lezioni registrate)
+(guarda lezioni registrate) > (invia domande sulla lezione)
+[cliente] - (fissa data per lezione in videochiamata)
+
