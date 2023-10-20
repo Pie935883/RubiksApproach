@@ -34,4 +34,4 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 
 <img src="https://yuml.me/diagram/usecase/[utente]>(avvia app),(avvia app)>(inserisce credenziali),[sistema]-(verifica credenziali),(verifica credenziali)>(autorizza accesso),(inserisce credenziali)<(logout),(inserisce credenziali)<(accesso area riservata),(verifica credenziali)>(gestione errori di accesso),(gestione errori di accesso)<(recupero password)">
 
-<img src="https://yuml.me/diagram/usecase/draw/[Cliente]-(Seleziona Pacchetto),(Seleziona Pacchetto)>(Pacchetto 2x2),(Seleziona Pacchetto)>(Pacchetto 3x3),(Seleziona Pacchetto)>(Pacchetto pyramynx),(Seleziona Pacchetto)<(Modifica Pacchetto),[Cliente]-(Visualizza Lezioni Registrate),[Cliente]-(Richiede Videochiamata),[Coach]-(Conduce Videochiamata)">
+<img src="https://yuml.me/diagram/usecase/[Cliente]-(Seleziona Pacchetto),(Seleziona Pacchetto)>(Pacchetto 2x2),(Seleziona Pacchetto)>(Pacchetto 3x3),(Seleziona Pacchetto)>(Pacchetto pyramynx),(Seleziona Pacchetto)<(Modifica Pacchetto),[Cliente]-(Visualizza Lezioni Registrate),[Cliente]-(Richiede Videochiamata),[Coach]-(Conduce Videochiamata)">
