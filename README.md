@@ -19,19 +19,25 @@ Gli utenti devono essere in grado di effettuare l'accesso all'applicazione utili
 - Logout (opzionale): L'utente ha la possibilità di terminare la sessione di accesso in qualsiasi momento, ad esempio cliccando su un pulsante di "Logout". Questo assicura che l'utente esca in modo sicuro 
   dall'applicazione.
 
+
 3. Tipologie di Cubi Trattati:(sistema, funzionale)
 L'app tratterà principalmente di cubo 3x3 2x2 e pyramynx, soprattutto agli inizi. Il cliente avrà poi la possibilità di apprendere i metodi risolutivi anche di cubi più complessi quali 4x4 5x5 e 6x6.
+
 
 4. Pacchetti offerti:(utente, funzionale)
 L'app mette a disposizione vari pacchetti per i clienti a seconda del persorso che desidereranno conseguire, ovvero uno sul cubo 3x3, uno sul cubo 2x2 e uno sulla pyramynx. Ogni pacchetto comprenderà 10 lezioni registrate sull'argomento scelto e un numero a scelta di lezioni in videochiamata con i coach del nostro team in cui si avrà la possibilità e il piacere di apprendere, allenarsi e migliorare insieme a degli esperti attraverso un approcio aperto e amichevole.
 Sarà possibile anche modificare i pacchetti per soddisfare gli obiettivi specifici di apprendimento del cliente in questione.
 
+
 5. Community Interattiva:(utente, non funzionale)
 Il servizio mette a disposizione un servizio 24h su 24 per domande o curiostià relative al mondo del cubing, una sezione dove i clienti possono interagire fra di loro e una pagina con collegamenti esterni sempre riguardanti le notizie e le scoperte più recenti sul mondo del cubing.
+
 
 6. Pravicy e sicurezza dei dati: (dominio)
 RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza dei dati dei clienti. Ciò include l'adozione di protocolli di crittografia per la trasmissione dei dati, l'accesso limitato alle informazioni personali solo al personale autorizzato e la definizione di politiche chiare in merito alla gestione e alla protezione dei dati sensibili. Inoltre, la politica di privacy è conforme alle leggi e ai regolamenti vigenti in materia di privacy dei dati ed è chiaramente disponibile ed accessibile ai clienti per un eventuale consultazione.
 
+
 <img src="https://yuml.me/diagram/scruffy/usecase/[utente]-(avvia app),(avvia app)<(esegue la registrazione),(esegue la registrazione)>(inserisce nome utente),(esegue la registrazione)>(inserisce una password),(avvia app)<(richiede recupero password),(avvia app)>(inserisce credenziali),[sistema]-(verifica credenziali login),(verifica credenziali login)>(autorizza accesso),(inserisce credenziali)<(logout),(inserisce credenziali)<(accesso area riservata),(verifica credenziali login)>(gestisce errori di accesso),(gestisce errori di accesso)<(invio email reset password),(gestisce errori di accesso)>(fornisce messaggio di errore),[sistema]-(verifica nome utente e password dei sign up),[sistema]-(processa ordine pacchetti)">
+
 
 <img src="https://yuml.me/diagram/scruffy/usecase/[Cliente]-(Sfoglia Pacchetti),(Sfoglia Pacchetti)>(Visualizza Pacchetto 2x2),(Visualizza Pacchetto 2x2)<(Compra pacchetto),(Sfoglia Pacchetti)>(Visualizza Pacchetto 3x3),(Visualizza Pacchetto 3x3)<(Compra pacchetto),(Sfoglia Pacchetti)>(Visualizza Pacchetto pyramynx),(Visualizza Pacchetto pyramynx)<(Compra pacchetto),(Sfoglia Pacchetti)<(Modifica Pacchetto),(Modifica Pacchetto)<(Compra pacchetto),(Compra pacchetto)>(Checkout),(Checkout)<(Aggiungi Carta),[Cliente]-(Visualizza Lezioni Registrate),(Visualizza Lezioni Registrate)<(Pone Domande sulla lezione),[Cliente]-(Richiede Videochiamata),[Coach]-(Conduce Videochiamata),[Coach]-(Risponde alle domande sulle lezioni)">
