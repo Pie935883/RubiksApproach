@@ -41,3 +41,6 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 
 
 <img src="https://yuml.me/diagram/scruffy/usecase/[Cliente]-(Sfoglia Pacchetti),(Sfoglia Pacchetti)>(Visualizza Pacchetto 2x2),(Visualizza Pacchetto 2x2)<(Compra pacchetto),(Sfoglia Pacchetti)>(Visualizza Pacchetto 3x3),(Visualizza Pacchetto 3x3)<(Compra pacchetto),(Sfoglia Pacchetti)>(Visualizza Pacchetto pyramynx),(Visualizza Pacchetto pyramynx)<(Compra pacchetto),(Sfoglia Pacchetti)<(Modifica Pacchetto),(Modifica Pacchetto)<(Compra pacchetto),(Compra pacchetto)>(Checkout),(Checkout)<(Aggiungi Carta),[Cliente]-(Visualizza Lezioni Registrate),(Visualizza Lezioni Registrate)<(Pone Domande sulla lezione),[Cliente]-(Richiede Videochiamata),[Coach]-(Conduce Videochiamata),[Coach]-(Risponde alle domande sulle lezioni)">
+
+
+Come principiante del cubing, desidero ottenere le nozioni di base riguardanti la tipologia del cubo trattato nel pacchetto in modo da potermi interfacciare con questo mondo comprendendo ciò che mi viene spiegato sia all'interno che all'esterno del corso.  
