@@ -47,4 +47,7 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 
 Come principiante nel cubing, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento.
 Come utente già registrato, voglio poter recuperare la mia password tramite un'email di reset nel caso la dimentichi, garantendo l'accesso continuo ai servizi offerti.
+Come utente già registrato, voglio poter accedere alla pagina della community interattiva in modo da poter pubblicare domande o rispondere ad altrettante poste da altri utenti del servizio o anche da utentu esterni.
+Come utente appena registrato, voglio avere a disposizione una panoramica dei vari pacchetti presenti nel corso in modo da poter scegliere al meglio il percorso da interaprendere insieme ai coach di Rubiks Approach. 
+Come utente che ha acquistato un pacchetto, voglio poter accedere alle lezioni preregistrate e avere la possibilità di fissare le date in cui si svolgeranno le videochiamate con i coach in modo da usufuire a 360 gradi dei servizi acquistati.     
 
