@@ -46,7 +46,26 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 *User Story* 
 
 Come principiante nel cubing, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento.
+
 Come utente già registrato, voglio poter recuperare la mia password tramite un'email di reset nel caso la dimentichi, garantendo l'accesso continuo ai servizi offerti.
+
+Come appassionato di cubi, vorrei poter selezionare e iscrivermi a pacchetti di lezioni personalizzabili, adattando il mio percorso di apprendimento alle mie esigenze specifiche.
+
+In quanto cliente, mi aspetto un'area dedicata alla community, dove posso interagire con altri utenti, porre domande e discutere delle ultime novità nel mondo del cubing.
+
+Come utente, desidero essere in grado di accedere a un servizio di supporto 24/7, in modo da poter avere risposte e chiarimenti in qualsiasi momento riguardo ai metodi di risoluzione dei cubi.
+
+Come esperto in crescita nel cubing, desidero avere accesso a risorse avanzate per risolvere cubi più complessi come il 4x4 o il 5x5, così da poter migliorare continuamente le mie abilità.
+
+In quanto utente preoccupato per la sicurezza dei dati, mi aspetto che RubiksApproach adotti protocolli di crittografia avanzati e politiche chiare sulla privacy, proteggendo le mie informazioni personali e garantendo la conformità alle leggi sulla privacy.
+
+Come nuovo iscritto, vorrei poter avere un'esperienza di apprendimento strutturata, partendo dalle basi e progredendo verso soluzioni avanzate, attraverso le lezioni registrate e le sessioni individuali con i coach.
+
+Queste user stories possono fungere da base per lo sviluppo del sistema, consentendo agli sviluppatori di comprendere meglio le aspettative degli utenti e soddisfare i requisiti funzionali e non funzionali delineati
+
+
+---------------------------------------------------------------------------------
+
 Come utente già registrato, voglio poter accedere alla pagina della community interattiva in modo da poter pubblicare domande o rispondere ad altrettante poste da altri utenti del servizio o anche da utentu esterni.
 Come utente appena registrato, voglio avere a disposizione una panoramica dei vari pacchetti presenti nel corso in modo da poter scegliere al meglio il percorso da interaprendere insieme ai coach di Rubiks Approach. 
 Come utente che ha acquistato un pacchetto, voglio poter accedere alle lezioni preregistrate e avere la possibilità di fissare le date in cui si svolgeranno le videochiamate con i coach in modo da usufuire a 360 gradi dei servizi acquistati.     
