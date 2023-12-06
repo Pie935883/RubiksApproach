@@ -46,25 +46,25 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 
 *User Story* 
 
-Come principiante nel cubing, quindi come utente, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento.
+Come principiante nel cubing, quindi come utente, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento. (13 ore)
 
-Come utente già registrato, voglio poter recuperare la mia password tramite un'email di reset nel caso la dimentichi, garantendo l'accesso continuo ai servizi offerti.
+Come utente già registrato, voglio poter recuperare la mia password tramite un'email di reset nel caso la dimentichi, garantendo l'accesso continuo ai servizi offerti. (13 ore)
 
-Come utente registrato, vorrei avere a disposizione una panoramica dei vari pacchetti presenti nel corso e personalizzare le lezioni di quest'ultimo, adattando il mio percorso di apprendimento alle mie esigenze specifiche.
+Come utente registrato, vorrei avere a disposizione una panoramica dei vari pacchetti presenti nel corso e personalizzare le lezioni di quest'ultimo, adattando il mio percorso di apprendimento alle mie esigenze specifiche. (13 ore)
 
-Come utente che ha acquistato un pacchetto, voglio poter accedere alle lezioni preregistrate e avere la possibilità di fissare le date in cui si svolgeranno le videochiamate con i coach in modo da usufuire a 360 gradi dei servizi acquistati.     
+Come utente che ha acquistato un pacchetto, voglio poter accedere alle lezioni preregistrate e avere la possibilità di fissare le date in cui si svolgeranno le videochiamate con i coach in modo da usufuire a 360 gradi dei servizi acquistati. (13 ore)     
 
-Come utente già registrato, mi aspetto di poter accedere alla pagina dedicata alla community interattiva in modo da poter pubblicare domande o rispondere ad altrettante poste da altri utenti del servizio o anche da utenti esterni e discitere sulle ultime novità del mondo del cubing. 
+Come utente già registrato, mi aspetto di poter accedere alla pagina dedicata alla community interattiva in modo da poter pubblicare domande o rispondere ad altrettante poste da altri utenti del servizio o anche da utenti esterni e discitere sulle ultime novità del mondo del cubing. (13 ore)
 
-Come utente, desidero essere in grado di accedere a un servizio di supporto 24/7, in modo da poter avere risposte e chiarimenti in qualsiasi momento riguardo ai metodi di risoluzione dei cubi.
+Come utente, desidero essere in grado di accedere a un servizio di supporto 24/7, in modo da poter avere risposte e chiarimenti in qualsiasi momento riguardo ai metodi di risoluzione dei cubi. (13 ore)
 
-Come esperto in crescita nel cubing, desidero avere accesso a risorse avanzate per risolvere cubi più complessi come il 4x4 o il 5x5, così da poter migliorare continuamente le mie abilità.
+Come esperto in crescita nel cubing, desidero avere accesso a risorse avanzate per risolvere cubi più complessi come il 4x4 o il 5x5, così da poter migliorare continuamente le mie abilità. (13 ore)
 
-In quanto amministratore dell'app, preoccupato per la sicurezza dei dati, voglio implementare in RubiksApproach protocolli di crittografia avanzati e politiche chiare sulla privacy, proteggendo le informazioni personali di tutti i clienti e garantendo la conformità alle leggi sulla privacy.
+In quanto amministratore dell'app, preoccupato per la sicurezza dei dati, voglio implementare in RubiksApproach protocolli di crittografia avanzati e politiche chiare sulla privacy, proteggendo le informazioni personali di tutti i clienti e garantendo la conformità alle leggi sulla privacy. (13 ore)
 
-Come nuovo utente, vorrei poter avere un'esperienza di apprendimento strutturata, partendo dalle basi e progredendo verso soluzioni avanzate, attraverso le lezioni registrate e le sessioni individuali con i coach.
+Come nuovo utente, vorrei poter avere un'esperienza di apprendimento strutturata, partendo dalle basi e progredendo verso soluzioni avanzate, attraverso le lezioni registrate e le sessioni individuali con i coach. (13 ore)
 
-
+Per gestire in modo efficace lo sviluppo dell'applicazione RubiksApproach, le ore complessive di tutte le fasi (117 ore) verranno divise in tre split, ciascuno della durata di una settimana (circa 40 ore). La suddivisione del progetto in split temporali viene adottata al fine di facilitare la gestione delle attività, monitorare lo stato di avanzamento, adattare la pianificazione in base alle necessità e ridurre i rischi, consentendo così un controllo più efficace e una gestione più flessibile del lavoro
 
 ---------------------------------------------------------------------------------
 
