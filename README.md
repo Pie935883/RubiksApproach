@@ -46,7 +46,7 @@ RubiksApproach implementa misure robuste per garantire la privacy e la sicurezza
 
 *User Story* 
 
-Come principiante nel cubing,quindi come utente, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento.
+Come principiante nel cubing, quindi come utente, desidero accedere all'applicazione tramite un sistema di autenticazione sicuro, così posso iniziare il mio percorso di apprendimento.
 
 Come utente già registrato, voglio poter recuperare la mia password tramite un'email di reset nel caso la dimentichi, garantendo l'accesso continuo ai servizi offerti.
 
